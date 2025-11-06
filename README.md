@@ -18,7 +18,7 @@ A simple Python + SQLite project to manage bank customer data. It supports addin
 
 -Database: SQLite3
 
--IDE: VS Code
+-Environment: Google Colab
 
 ->Learning Highlights
 
